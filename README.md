@@ -10,11 +10,11 @@
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
 
-- 🔭 I’m currently working on **on the Machine learning project**
+- 🔭 I’m currently working on **the Machine learning project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [my GitHub account.](my GitHub account.)
+- 👨‍💻 All of my projects are available at my GitHub account
 
 - 📫 How to reach me **parulsingh1074@gmail.com**
 
