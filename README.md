@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [on my GitHub](on my GitHub)
+- 👨‍💻 All of my projects are available at my GitHub account.
 
 - 📫 How to reach me **parulsingh1074@gmail.com**
 
