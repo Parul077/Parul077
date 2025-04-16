@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **the Machine learning project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at my GitHub account
 
