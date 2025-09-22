@@ -1,5 +1,5 @@
 
-![Design and Development](https://media.licdn.com/dms/image/D5616AQEaAyMs_tM0lg/profile-displaybackgroundimage-shrink_350_1400/0/1722492745356?e=1728518400&v=beta&t=yiNWSXQrlb6Bt-zUSj0kaZnKhzDRYs41yh0PR5xcpQM)
+
 
 
 <h1 align="center">Hi 👋, I'm Parul Singh</h1>
