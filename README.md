@@ -10,13 +10,13 @@
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
 
-- 🔭 I’m currently working on **the Machine learning project**
+- 🔭 **Currently honing my skills in Machine Learning**, with a strong focus on real-world applications and continuous improvement.
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 **Actively building my personal project – The Glitch Room**, an interactive platform designed to encourage creativity, expression, and problem-solving.
 
-- 👨‍💻 All of my projects are available at my GitHub account
+- 👩‍💻 **Explore all my projects on GitHub**, where I regularly share my work, experiments, and ideas.
 
-- 📫 How to reach me **parulsingh1074@gmail.com**
+- 📬 Let’s connect: **parulsingh1074@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
