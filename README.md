@@ -1,40 +1,88 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Parul Singh</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">
+Exploring Full-Stack Development with a growing focus on Machine Learning
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parul077&label=Profile%20views&color=0e75b6&style=flat" alt="parul077" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=parul077&label=Profile%20views&color=0e75b6&style=flat" alt="parul077" />
+</p>
 
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
+---
 
-- 🔭 **Currently honing my skills in Machine Learning**, with a strong focus on real-world applications and continuous improvement.
+### 💼 Professional Overview
 
-- 🌱 **Actively building my personal project – The Glitch Room**, an interactive platform designed to encourage creativity, expression, and problem-solving.
+- 🔭 **Full-Stack Web Developer Intern at IIT Kanpur (SURGE 2024)**  
+  Built a Django-based system integrating **6+ regulatory bodies**, eliminating manual searches and saving **~20 hours/week** for compliance teams.
 
-- 👩‍💻 **Explore all my projects on GitHub**, where I regularly share my work, experiments, and ideas.
+- 🌱 **Actively transitioning into Machine Learning & Data-Driven Systems**, with projects in recommender systems and NLP.
 
-- 📬 Let’s connect: **parulsingh1074@gmail.com**
+- 🚀 **Founder & Builder – The Glitch Room**  
+  A Gen Z–focused idea combining **gamification, storytelling, and creative expression**, selected in **Unstop Playstorm Round 1**.
 
-<h3 align="left">Connect with me:</h3>
+- 👩‍💻 **All projects are open-source on GitHub**, reflecting applied problem-solving and production-oriented thinking.
+
+- 📬 **Contact:** `parulsingh1074@gmail.com`
+
+---
+
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parulsingh1074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parulsingh1074" height="30" width="40" /></a>
-<a href="https://kaggle.com/parul077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parul077" height="30" width="40" /></a>
-<a href="https://instagram.com/brightp07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brightp07" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/parul77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parul77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/unique77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unique77" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parulsinm6t2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parulsinm6t2" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/parulsingh1074" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://kaggle.com/parul077" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/unique77" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/parul77" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parul077&show_icons=true&locale=en&layout=compact" alt="parul077" /></p>
+### 🧠 Key Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parul077&show_icons=true&locale=en" alt="parul077" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parul077" alt="parul077" /></a> </p>
+- **Automation of Regulatory Updates (IIT Kanpur)**  
+  Django-based regulatory document tracker for the Indian Power Sector, integrating multiple authorities and automating data fetching.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul077&" alt="parul077" /></p>
+- **Book Recommender System**  
+  ML-powered recommendation engine using collaborative filtering and popularity-based models for personalized suggestions.
+
+- **Fake News Prediction System**  
+  NLP-based classification model using TF-IDF and Logistic Regression to detect fake news with high accuracy.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
+</p>
+
+---
+
+### ✍️ Writing on Medium
+
+I write about what I learn in software development and machine learning to simplify concepts and share practical insights.
+
+[![Medium](https://github-readme-medium.vercel.app/?username=Learner)](https://medium.com/@Learner)
+
+<a href="https://medium.com/@Learner" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="30" width="40" />
+</a>
+
+
