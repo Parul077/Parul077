@@ -27,16 +27,7 @@ Exploring Full-Stack Development with a growing focus on Machine Learning
 
 ---
 
-### 🧠 Key Projects
-
-- **Automation of Regulatory Updates (IIT Kanpur)**  
-  Django-based regulatory document tracker for the Indian Power Sector, integrating multiple authorities and automating data fetching.
-
-- **Book Recommender System**  
-  ML-powered recommendation engine using collaborative filtering and popularity-based models for personalized suggestions.
-
-- **Fake News Prediction System**  
-  NLP-based classification model using TF-IDF and Logistic Regression to detect fake news with high accuracy.
+**My Portfolio:** https://my-portfolio-jade-five-65.vercel.app/
 
 ---
 
