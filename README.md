@@ -1,135 +1,182 @@
 <h1 align="center">Hi 👋, I'm Parul Singh</h1>
+
 <h3 align="center">
-Exploring Full-Stack Development with a growing focus on Machine Learning
+AI/ML Engineer | Generative AI | LLMs | RAG | Python
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parul077&label=Profile%20views&color=0e75b6&style=flat" alt="parul077" />
+<p align="center">
+  <a href="https://github.com/Parul077">
+    <img src="https://komarev.com/ghpvc/?username=Parul077&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Parul077?tab=followers">
+    <img src="https://img.shields.io/github/followers/Parul077?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
+<img align="right" width="380" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
 ---
 
-### 💼 Professional Overview
+## 💼 About Me
 
-- 🔭 **AI/ML Developer focused on building real-world intelligent systems**  
-  Experienced in developing applications using **RAG, LLMs, and Machine Learning**, with end-to-end deployment.
-
-- 🧠 Built and deployed AI applications like **AI Career Coach** and **QueryPDF**, leveraging **LangChain, FAISS, and LLM APIs** for context-aware responses.
-
-- 💻 **Research Intern at IIT Kanpur (SURGE 2024)**  
-  Developed a Django-based system integrating **6+ regulatory bodies**, reducing manual effort and saving **~20 hours/week**.
-
-- 📊 Hands-on experience across **Machine Learning, Deep Learning (CNN), NLP, and Time-Series Forecasting**, solving real-world problems.
-
-- 🚀 **Founder & Builder – The Glitch Room**  
-  A Gen Z–focused idea combining **gamification, storytelling, and creative expression**, selected in **Unstop Playstorm Round 1**.
-
-- 📦 All projects are open-source on GitHub, showcasing **production-oriented thinking and practical implementation**.
-
+- 🤖 AI/ML Developer focused on building **real-world intelligent applications**
+- 🧠 Experience with **Machine Learning, Deep Learning, NLP, Generative AI, RAG and LLM applications**
+- 🐍 Strong focus on **Python, AI application development and backend engineering**
+- 🔬 Former **Research Intern at IIT Kanpur (SURGE 2024)**
+- 🚀 Building **The Glitch Room**, a gamified platform focused on creative learning and AI-powered challenges
+- ✍️ I write technical articles to make **AI and Machine Learning concepts easier to understand**
+- 💻 Currently working on AI projects and freelancing as a software developer
+- 🎯 Interested in building **production-oriented AI systems and intelligent web applications**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🧠 AI Career Coach (RAG + LLM)
-- Built a RAG-based AI system for personalized career guidance, resume evaluation, and skill gap analysis  
-- Uses **LangChain, FAISS, and LLM APIs (LLaMA-3 via Groq)** for context-aware responses  
-- 🔗 [GitHub](https://github.com/Parul077/AI-Career-Coach) | 🌐 [Live Demo](https://ai-career-coach-1-5e5m.onrender.com/)
+### 🧠 AI Career Coach
 
+A RAG-based AI application for personalized career guidance, resume evaluation and skill-gap analysis.
 
+**Built with:** LangChain • FAISS • Groq • LLaMA • Flask
 
-#### 📄 QueryPDF – AI Document Assistant
-- Developed an AI-powered system to query PDFs using natural language  
-- Implemented **semantic search with FAISS + embeddings + RAG pipeline**  
-- 🔗 [GitHub](https://github.com/Parul077/QueryPDF-AI-Powered-Document-Assistant)
-
-
-
-#### 🔍 Solar Panel Defect Classification
-- Built a deep learning model using CNN to detect and classify solar panel defects  
-- Deployed using Streamlit for real-time predictions  
-- 🔗 [GitHub](https://github.com/Parul077/Solar_panel_defect_classifier)
+🔗 [GitHub](https://github.com/Parul077/AI-Career-Coach)  
+🌐 [Live Demo](https://ai-career-coach-1-5e5m.onrender.com/)
 
 ---
 
+### 📄 QueryPDF – AI Document Assistant
 
-**My Portfolio:** https://my-portfolio-jade-five-65.vercel.app/
+An AI-powered document assistant that allows users to interact with PDF documents using natural language through semantic search and RAG.
 
----
+**Built with:** Flask • LangChain • FAISS • Embeddings • Groq
 
-
-
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brightp07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parulsingh1074) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Learner) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ParulSingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parulsingh1074@gmail.com) 
+🔗 [GitHub](https://github.com/Parul077/QueryPDF-AI-Powered-Document-Assistant)
 
 ---
 
-### 💻 Tech Stack:
+### ☀️ Solar Panel Defect Classification
 
-#### 💻 Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+A CNN-based computer vision application for detecting and classifying defects in solar panels.
 
-#### 🤖 AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-orange?style=for-the-badge)
+**Built with:** TensorFlow • CNN • Streamlit • Computer Vision
+
+🔗 [GitHub](https://github.com/Parul077/Solar_panel_defect_classifier)
+
+---
+
+### ⚡ ERC Tracker – IIT Kanpur
+
+Developed a Django-based system to automate regulatory document tracking across 6+ Electricity Regulatory Commission websites.
+
+The system automated document collection and comparison workflows, reducing manual effort for the compliance team by approximately 20 hours per week.
+
+---
+
+### 🌀 The Glitch Room
+
+Building a gamified learning platform where users solve, exploit and creatively interact with AI-generated challenges.
+
+**Focus:** AI • Gamification • Creative Learning • Full-Stack Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF8C00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-black?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge)
 
-#### 📚 Libraries & Frameworks
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### 📚 Frameworks & Libraries
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 
-#### ⚙️ Backend & Tools
+### ⚙️ Backend & Tools
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-blue?style=for-the-badge)
 
-#### 🚀 Deployment
+### 🚀 Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit%20Apps-red?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parul077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Parul077&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parul077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ✍️ Technical Writing
+
+I regularly write about Machine Learning, Deep Learning and AI concepts with the goal of making complex topics easier to understand.
+
+### Recent Topics
+
+- Machine Learning Pipelines
+- Handling Imbalanced Datasets
+- Cross-Validation
+- Ensemble Learning
+- Boosting Algorithms
+- Dimensionality Reduction
+- Random Forests
+
+📝 **Read my articles:**  
+[Medium](https://medium.com/@parulsingh1074)
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parul077&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/parulsingh1074">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Parul077">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@parulsingh1074">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:parulsingh1074@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌐 Portfolio
+
+🔗 **[Visit My Portfolio](https://my-portfolio-jade-five-65.vercel.app/)**
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Parul077&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=Parul077&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>Building intelligent systems, learning continuously, and turning ideas into real-world applications.</i>
+</p>
