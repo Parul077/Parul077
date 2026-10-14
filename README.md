@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parul Singh</h1>
 
 <h3 align="center">
-AI/ML Engineer | Generative AI | LLMs | RAG | Python
+AI/ML | Generative AI | LLMs | RAG | Python
 </h3>
 
 <p align="center">
