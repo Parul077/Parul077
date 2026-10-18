@@ -1,4 +1,4 @@
-# Hi 👋, I'm Parul Singh
+<h1 align="center">Hi 👋, I'm Parul Singh</h1>
 
 <h3 align="center">AI/ML Engineer | Generative AI | LLMs | RAG | AI Agents | Python</h3>
 
@@ -7,9 +7,11 @@
   <img src="https://img.shields.io/github/followers/Parul077?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
-<img align="right" width="350" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding animation"/>
-
 ## 💼 About Me
+
+<table>
+<tr>
+<td valign="middle">
 
 - 🤖 Artificial Intelligence & Machine Learning Intern at **FAC Infosec Private Limited**.
 - 🔬 Working on **long-horizon AI-agent error propagation and mitigation**, including error detection, root-cause analysis, corrective re-execution, and trajectory verification.
@@ -19,6 +21,13 @@
 - 🎓 Computer Science and Engineering graduate; former Research Intern at **IIT Kanpur (SURGE 2024)**.
 - ✍️ Writing technical articles to make AI, Machine Learning, and software development concepts easier to understand.
 - 🎯 Interested in building reliable AI systems, intelligent applications, and practical solutions to real-world problems.
+
+</td>
+<td valign="middle" align="center" width="360">
+<img width="340" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding animation"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -48,6 +57,8 @@ Building a gamified learning platform that combines AI-generated challenges, col
 - 🔐 Authentication, database, and storage powered by Supabase.
 
 **Tech Stack:** React • Tailwind CSS • Framer Motion • Supabase • Groq API • LLMs • Prompt Engineering
+
+🌐 [Live Website](https://joinglitchroom.com/)
 
 ---
 
